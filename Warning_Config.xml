@@ -1,0 +1,13 @@
+﻿<Config>
+	<Image_Type>header</Image_Type>	
+	<Logo_File>header5.png</Logo_File>		
+	<Title>Welcome to Windows 10 upgrade</Title>
+	<Text>A newer version of Windows is available and will be installed on your computer.
+	
+Note, that your devices will be restarted several time.	
+</Text>
+	<Media_Warning>! Please insert the media to start the migration process !</Media_Warning>
+	<GUI_Title>Migration of your device</GUI_Title>	
+	<GUI_StatusBar>Provided by Syst and Deploy</GUI_StatusBar>
+</Config>
+
